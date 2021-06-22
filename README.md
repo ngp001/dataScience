@@ -1,13 +1,13 @@
 # Data Science Projects
 
-## MultipleLinearRegression.ipynb
+## ** MultipleLinearRegression.ipynb ** 
 An example of using multiple linear regressiont to predict the profits of a startup company. The variables used to predict profits are:
  * R&D Spending
  * Administration Costs
  * Market Spending
  * State
 
-## classifierPython.ipynb
+## ** classifierPython.ipynb ** 
 An example of running multiple classifiers to predict tumour type; either benign or malignment. The classifiers used in this example are Logistic, KNN, SVC, Baysian, and Random Forest.
 
 The tumors are defined by the variables: 
